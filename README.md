@@ -51,12 +51,13 @@ The code will be open sourced at github.
 ## Citation
 If you find our work helpful, feel free to give us a cite.
 ```bibtex
-@article{xiyansql,
+@misc{sheng2025basesqlpowerfulopensource,
       title={BASE-SQL: A powerful open source Text-To-SQL baseline approach}, 
-      author={-},
+      author={Lei Sheng and Shuai-Shuai Xu and Wei Xie},
       year={2025},
-      journal={arXiv preprint arXiv:xxx},
-      url={https://arxiv.org/abs/xxx},
-      primaryClass={cs.CL}
+      eprint={2502.10739},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.10739}, 
 }
 ```
